@@ -97,7 +97,7 @@ In the future, we'll open the platform to:
 
 ## 📬 Contact
 
-- 📧 Email: [skillloop.platform@gmail.com](mailto:skillloop.platform@gmail.com)
+- 📧 Email: [helloskillloop@gmail.com](mailto:helloskillloop@gmail.com)
 - 🌍 Website: Coming soon – [https://skillloop.in](https://skillloop.in)
 - 📢 Launching early beta for students and indie devs soon.
 
